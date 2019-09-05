@@ -1,0 +1,48 @@
+{
+  "workbench.colorCustomizations": {
+    "[Night Owl]": {
+      "ralsp.keyword": "#c88fec",
+      "ralsp.keyword.control": "#c88fec",
+      "ralsp.keyword.unsafe": "#c88fec",
+      "ralsp.function": "#acdd5f",
+      "ralsp.type": "#ffcc86",
+      "ralsp.constant": "#80a8ff",
+      "ralsp.variable": "#d6deec",
+      "ralsp.comment": "#627777",
+      "ralsp.literal": "#edc589",
+      "ralsp.string": "#edc589",
+      "ralsp.macro": "#49ace7",
+      "ralsp.attribute": "#80a8ff",
+      "ralsp.module": "#d6deec",
+      "ralsp.field": "#7bdcca",
+      "ralsp.parameter": "#c88fec",
+      "activityBar.background": "#000C1D",
+      "activityBar.border": "#102a44",
+      "sideBar.background": "#001122",
+      "sideBar.border": "#102a44",
+      "sideBar.foreground": "#8BADC1"
+    },
+    "[Night Owl (No Italics)]": {
+      "ralsp.keyword": "#c88fec",
+      "ralsp.keyword.control": "#c88fec",
+      "ralsp.keyword.unsafe": "#c88fec",
+      "ralsp.function": "#acdd5f",
+      "ralsp.type": "#ffcc86",
+      "ralsp.constant": "#80a8ff",
+      "ralsp.variable": "#d6deec",
+      "ralsp.comment": "#627777",
+      "ralsp.literal": "#edc589",
+      "ralsp.string": "#edc589",
+      "ralsp.macro": "#49ace7",
+      "ralsp.attribute": "#80a8ff",
+      "ralsp.module": "#d6deec",
+      "ralsp.field": "#7bdcca",
+      "ralsp.parameter": "#c88fec",
+      "activityBar.background": "#000C1D",
+      "activityBar.border": "#102a44",
+      "sideBar.background": "#001122",
+      "sideBar.border": "#102a44",
+      "sideBar.foreground": "#8BADC1"
+    }
+  }
+}
